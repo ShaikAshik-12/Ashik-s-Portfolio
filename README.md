@@ -18,4 +18,4 @@ Currently completing a professional Data Analytics course, I specialize in trans
 - Python for data science  
 
 ## Let's connect!
-[LinkedIn](https://linkedin.com/in/your-link)
+[LinkedIn](https://linkedin.com/in/ashiksk)
