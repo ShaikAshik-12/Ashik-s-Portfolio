@@ -11,8 +11,8 @@ Currently completing a professional Data Analytics course, I specialize in trans
 - Python  
 
 ## My Projects
-- [Zomato Analysis Project]()  
-- [HR analytics Project]()  
+- [Zomato Analysis Project](https://github.com/ShaikAshik-12/Zomato-Analysis-Project)  
+- [HR analytics Project](https://github.com/ShaikAshik-12/HR-Analytics-Project)  
 
 ## Currently Learning 
 - Python for data science  
